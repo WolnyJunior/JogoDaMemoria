@@ -9,5 +9,5 @@ No HTML foi criado apenas uma div para a tela de final do jogo.
 Tem uma parte comentada, que foi utilizada para estruturar a tela de jogo, e eu esqueci de excluir.
 
 ## Link do repósitório no vercel:
-https://jogo-da-memoria-wheat.vercel.app/
+<a href="https://jogo-da-memoria-wheat.vercel.app/">Jogo da Memória</a>
 
