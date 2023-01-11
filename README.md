@@ -9,6 +9,7 @@ Tem uma parte comentada, que foi utilizada para estruturar a tela de jogo, e eu 
 ## A parte dos scripts foram divididas em duas:
 
 script.js é a parte da interface
+
 game.js é a parte lógica do jogo
 
 Tem duas fontes que foram usadas durante o projeto para a parte de trás da carta, 
