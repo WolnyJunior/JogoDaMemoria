@@ -15,8 +15,9 @@ game.js é a parte lógica do jogo
 Tem duas fontes que foram usadas durante o projeto para a parte de trás da carta, 
 mas no final usei uma fonte do google.font
 
-## A tela está um pouco responsiva.
-Feita no último commit.
+## 
+A tela está um pouco responsiva.
+
 
 ## Link do repósitório no vercel:
 <a href="https://jogo-da-memoria-wheat.vercel.app/">Jogo da Memória</a>
